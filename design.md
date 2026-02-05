@@ -18,3 +18,10 @@ User Voice → Speech to Text → AI Processing → Response → Voice Output
 - Python
 - NLP / LLM
 - Cloud services (AWS or equivalent)
+
+## AI-Driven System Design (Proposed)
+- Data Collection Layer: User inputs & interaction logs
+- Processing Layer: Feature extraction & preprocessing
+- ML Layer: Classification / Recommendation model
+- Decision Layer: Intelligent response generation
+- Feedback Loop: Model improvement over time
