@@ -17,3 +17,10 @@
 - Farmers
 - Students
 - Elderly people
+
+  ## Future AI/ML Enhancements
+- User interaction data se feedback collect karke model train kiya ja sakta hai
+- NLP-based intent detection for better user understanding
+- Predictive analytics to suggest optimal solutions before user asks
+- Continuous learning system using user behavior patterns
+
